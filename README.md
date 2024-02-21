@@ -13,8 +13,8 @@ On the back end, I am proficient in Node.js and Express.js, enabling me to build
 
 - **Frontend:** JavaScript, React, TypeScript, HTML, CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools & Technologies:** Git, RESTful APIs
+- **Database:** MongoDB
+- **Tools & Technologies:** Git
 
 
 <!-- markdown -->
